@@ -1,7 +1,9 @@
 <h1 align="center">Hey, I'm Abdullahi 👋</h1>
 
+<p align="center">🩺 ⚕️ 💻 🧠</p>
+
 <p align="center">
-  <b>Full-Stack Developer · Java & TypeScript · MedTech & AI · Aspiring Neurotechnologist</b><br/>
+  <b>Full-Stack Developer · Java & TypeScript · 🩺 MedTech & AI · 🧠 Aspiring Neurotechnologist</b><br/>
   Building fast, tested, mobile-first software — from Java and Node.js backends to React frontends — with a focus on technology that helps people heal and learn.
 </p>
 
@@ -21,8 +23,9 @@
 
 - 🔨 Building full-stack web apps with **Next.js, TypeScript, React & Node.js**
 - ☕ Engineering **Java** systems with **Spring Boot**, JSP/Servlets, design patterns (Singleton, Builder, DAO, Front Controller) and **JUnit**
-- 🏥 **MedTech:** built [RoboDoc](https://github.com/Hero-Sphinx/RoboDoc), an AI patient-triage system with real-time vital-sign alerts and bilingual (EN/FR) clinical assessments
-- 🧠 **Aspiring neurotechnologist:** drawn to brain–computer interfaces and neural data, and building toward it through Data Science & AI studies (machine learning, deep learning, neural networks)
+- 🩺 **MedTech:** built [RoboDoc](https://github.com/Hero-Sphinx/RoboDoc), an AI patient-triage system with real-time vital-sign alerts and bilingual (EN/FR) clinical assessments
+- 🧠💻 **Aspiring neurotechnologist:** drawn to brain–computer interfaces and neural data, and building toward it through Data Science & AI studies (machine learning, deep learning, neural networks)
+- 🧩 Strong foundations in **Data Structures & Algorithms**, **OOP** and **SOLID** principles
 - 🔁 Working across the full **SDLC** with **Agile/Scrum**: requirements and NFRs, system analysis & design, Definition of Done, code review, testing and CI/CD
 - 🗄️ Designing **PostgreSQL** schemas with Prisma, idempotent migrations and safe data imports
 - 🤖 Integrating **Google Gemini AI** with caching and rate-limit retries
@@ -108,6 +111,7 @@
 <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
 
 **Practices**<br/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0F766E?style=for-the-badge" alt="Data Structures & Algorithms"/>
 <img src="https://img.shields.io/badge/SDLC-0F766E?style=for-the-badge" alt="SDLC"/>
 <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-0F766E?style=for-the-badge" alt="Agile / Scrum"/>
 <img src="https://img.shields.io/badge/OOP-0F766E?style=for-the-badge" alt="OOP"/>
