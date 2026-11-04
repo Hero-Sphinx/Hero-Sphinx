@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdullahi-salami-4a8788218/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/abdullahi-salami-4a8788218/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
   <a href="https://github.com/Hero-Sphinx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
@@ -51,21 +51,82 @@
 
 ### 🛠️ Tech Stack
 
-**Languages** `Java` `TypeScript` `JavaScript` `Python` `C#` `C++` `Dart` `Assembly` `SQL`
+**Languages**<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge" alt="Assembly"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL"/>
 
-**Frontend** `React` `Next.js` `TypeScript` `JavaScript` `HTML/CSS` `Tailwind CSS` `Bootstrap` `Vite`
+**Frontend**<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/Vue.js%20%28learning%29-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js (learning)"/>
 
-**Mobile** `Flutter` `Android Studio`
+**Mobile**<br/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
 
-**Backend** `Node.js` `Express` `FastAPI` `Spring Boot` `.NET` `REST APIs` `WebSockets` `Prisma` `Zod`
+**Backend**<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+<img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"/>
 
-**Data** `PostgreSQL` `MySQL` `SQL Server` `MongoDB` `SQLite` `Supabase` `Neon` `MySQL Workbench`
+**Data**<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase"/>
+<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge" alt="Neon"/>
+<img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench"/>
 
-**DevOps & Tools** `Docker` `GitHub Actions` `Vercel` `AWS` `Git` `Linux` `Vitest` `JUnit`
+**DevOps & Tools**<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge" alt="AWS"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"/>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
 
-**Practices** `SDLC` `Agile / Scrum` `OOP` `SOLID` `Design patterns` `Unit testing` `Code review` `CI/CD` `Technical documentation`
+**Practices**<br/>
+<img src="https://img.shields.io/badge/SDLC-0F766E?style=for-the-badge" alt="SDLC"/>
+<img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-0F766E?style=for-the-badge" alt="Agile / Scrum"/>
+<img src="https://img.shields.io/badge/OOP-0F766E?style=for-the-badge" alt="OOP"/>
+<img src="https://img.shields.io/badge/SOLID-0F766E?style=for-the-badge" alt="SOLID"/>
+<img src="https://img.shields.io/badge/Design%20patterns-0F766E?style=for-the-badge" alt="Design patterns"/>
+<img src="https://img.shields.io/badge/Unit%20testing-0F766E?style=for-the-badge" alt="Unit testing"/>
+<img src="https://img.shields.io/badge/Code%20review-0F766E?style=for-the-badge" alt="Code review"/>
+<img src="https://img.shields.io/badge/CI%2FCD-0F766E?style=for-the-badge" alt="CI/CD"/>
+<img src="https://img.shields.io/badge/Technical%20documentation-0F766E?style=for-the-badge" alt="Technical documentation"/>
 
-**AI & Data** `Machine learning` `Deep learning` `NLP` `Google Gemini` `LLM integration` `Prompt engineering` `Cursor` `Claude Code`
+**AI & Data**<br/>
+<img src="https://img.shields.io/badge/Machine%20learning-B45309?style=for-the-badge" alt="Machine learning"/>
+<img src="https://img.shields.io/badge/Deep%20learning-B45309?style=for-the-badge" alt="Deep learning"/>
+<img src="https://img.shields.io/badge/NLP-B45309?style=for-the-badge" alt="NLP"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+<img src="https://img.shields.io/badge/LLM%20integration-B45309?style=for-the-badge" alt="LLM integration"/>
+<img src="https://img.shields.io/badge/Prompt%20engineering-B45309?style=for-the-badge" alt="Prompt engineering"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" alt="Cursor"/>
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
 
 ---
 
