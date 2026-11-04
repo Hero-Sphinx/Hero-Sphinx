@@ -35,7 +35,7 @@
 |---|---|---|
 | [**Daaru-s-Seebawayh**](https://github.com/Hero-Sphinx/Daaru-s-Seebawayh) · [live](https://daaru-s-seebawayh.vercel.app) | AI-assisted Arabic grammar & Qur'an learning platform with a rule-based grammar engine and 77,000+ word translations | Next.js · TypeScript · PostgreSQL · FastAPI · Gemini · Docker |
 | [**786 Pizza & Wings**](https://github.com/Hero-Sphinx/786-Pizza-Wings) | Online ordering platform with a live kitchen board and staff admin console; server-side pricing and secure auth | Next.js · TypeScript · Prisma · Tailwind · Vitest |
-| [**RoboDoc**](https://github.com/Hero-Sphinx/RoboDoc) · [live](https://robodoc-hhpp.vercel.app) | AI patient triage with non-blocking pipelines, Twilio SMS alerts and real-time Socket.io updates | React · Node.js · MySQL · Gemini |
+| [**RoboDoc**](https://github.com/Hero-Sphinx/RoboDoc) · [live](https://robodoc-hhpp.vercel.app) | AI patient triage with non-blocking pipelines, Twilio SMS alerts and real-time Socket.io updates | React · Node.js · MySQL · Gemini · Twilio  |
 | [**PTFMS**](https://github.com/Hero-Sphinx) | Public Transit Fleet Management System: 3-tier app with role-based access, route and vehicle tracking, maintenance reports and JUnit tests | Java · JSP · Servlets · MySQL |
 | [**OutlineOwl**](https://github.com/Hero-Sphinx/OutlineOwl) · [live](https://outline-owl-five.vercel.app) | Parses course outlines and syncs deadlines to Google Calendar with SMS reminders | React · Vite · Express · Google Calendar API · Twilio |
 
