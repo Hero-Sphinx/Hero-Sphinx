@@ -7,8 +7,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullahi-salami-4a8788218/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://daaru-s-seebawayh.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-Seebawayh-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Seebawayh live demo"/></a>
+  <a href="https://github.com/Hero-Sphinx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
+
+<p align="center"><b>Live demos</b><br/>
+  <a href="https://daaru-s-seebawayh.vercel.app"><img src="https://img.shields.io/badge/Seebawayh-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Seebawayh live demo"/></a>
+  <a href="https://robodoc-hhpp.vercel.app"><img src="https://img.shields.io/badge/RoboDoc-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="RoboDoc live demo"/></a>
+  <a href="https://outlineowl.vercel.app"><img src="https://img.shields.io/badge/OutlineOwl-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="OutlineOwl live demo"/></a></p>
 
 ---
 
@@ -40,7 +45,7 @@
 | [**RoboDoc**](https://github.com/Hero-Sphinx/RoboDoc) · [live](https://robodoc-hhpp.vercel.app) | AI patient triage with non-blocking pipelines, Twilio SMS alerts and real-time Socket.io updates | React · Node.js · MySQL · Gemini |
 | [**PTFMS**](https://github.com/Hero-Sphinx/Transit_Project) | Public Transit Fleet Management System: 3-tier app with role-based access, route and vehicle tracking, maintenance reports and JUnit tests | Java · JSP · Servlets · MySQL |
 | [**Flight-App**](https://github.com/Hero-Sphinx/Flight-App) | Flutter mobile app for managing airplanes, flights, customers and reservations, with on-device SQLite storage | Flutter · Dart · SQLite · Android Studio |
-| [**OutlineOwl**](https://github.com/Hero-Sphinx/OutlineOwl) · [live](https://outline-owl-five.vercel.app) | Parses course outlines and syncs deadlines to Google Calendar with SMS reminders | React · Vite · Express · Google Calendar API · Twilio |
+| [**OutlineOwl**](https://github.com/Hero-Sphinx/OutlineOwl) · [live](https://outlineowl.vercel.app) | Parses course outlines and syncs deadlines to Google Calendar with SMS reminders | React · Vite · Express · Google Calendar API · Twilio |
 
 ---
 
@@ -67,7 +72,8 @@
 ### 📊 Top Languages
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hero-Sphinx&layout=donut&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hero-Sphinx&theme=tokyonight" alt="Top languages by repo"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hero-Sphinx&theme=tokyonight" alt="Top languages by commit"/>
 </p>
 
 <!-- Add these back once the numbers look strong:
