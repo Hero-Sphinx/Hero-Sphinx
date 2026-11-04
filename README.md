@@ -24,7 +24,7 @@
 - ✅ Shipping behind **CI gates**: 280+ Vitest tests, typecheck, lint and build on every change
 - 👥 Led a team of 4 as **Software Developer (Project Lead)** at Minerva Innovations
 - 🎓 CS (Honours, Data Science & AI) at **Algoma University** · Computer Programming grad, **Algonquin College**
-- 🌱 Currently Enhancing: **Vue 3 & Nuxt**
+- 🌱 Currently Learning and Building with: **Vue 3 & Nuxt**
 - 🗣️ English · French · Arabic
 
 ---
