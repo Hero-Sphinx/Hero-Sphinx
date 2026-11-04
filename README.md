@@ -35,7 +35,7 @@
 - 🌱 Currently learning and building with: **Vue 3 & Nuxt**
 - ⚙️ Writing **Assembly** to understand how software runs on the hardware
 - 📱 Built a cross-platform **Flutter** app ([Flight-App](https://github.com/Hero-Sphinx/Flight-App)) in Android Studio with a local SQLite database
-- 🗣️ English · French · Arabic
+- 🗣️ English · Arabic · French · Yoruba · Pidgin 
 
 ---
 
