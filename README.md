@@ -3,8 +3,14 @@
 <p align="center">🩺 ⚕️ 💻 🧠</p>
 
 <p align="center">
-  <b>Full-Stack Developer · Java & TypeScript · 🩺 MedTech & AI · 🧠 Aspiring Neurotechnologist</b><br/>
-  Building fast, tested, mobile-first software — from Java and Node.js backends to React frontends — with a focus on technology that helps people heal and learn.
+  <b>Full-Stack Developer · 🩺 MedTech & AI · 🧠 Aspiring Neurotechnologist</b><br/>
+  Building fast, tested, mobile-first software, from rigorous backends to sophisticated frontends, with a focus on technology that helps people heal and learn.
+</p>
+
+<p align="center"><i>I turn code into coffee, bugs into learning moments.<br/>My code is driven by the HHPP (Heart, Hustle, Passion and Purpose).</i></p>
+
+<p align="center">
+  <a href="https://abdullahi-portfolio-hhpp.vercel.app"><img src="https://img.shields.io/badge/View_my_portfolio-10B981?style=for-the-badge" alt="View my portfolio"/></a>
 </p>
 
 <p align="center">
@@ -23,19 +29,21 @@
 
 - 🔨 Building full-stack web apps with **Next.js, TypeScript, React & Node.js**
 - ☕ Engineering **Java** systems with **Spring Boot**, JSP/Servlets, design patterns (Singleton, Builder, DAO, Front Controller) and **JUnit**
-- 🩺 **MedTech:** built [RoboDoc](https://github.com/Hero-Sphinx/RoboDoc), an AI patient-triage system with real-time vital-sign alerts and bilingual (EN/FR) clinical assessments
+- 🩺 **MedTech:** built [RoboDoc](https://github.com/Hero-Sphinx/RoboDoc) after waiting more than 8 hours in hospitals: AI patient triage that puts the most urgent cases first, with real-time vital-sign alerts and bilingual (EN/FR) clinical assessments
 - 🧠💻 **Aspiring neurotechnologist:** drawn to brain–computer interfaces and neural data, and building toward it through Data Science & AI studies (machine learning, deep learning, neural networks)
+- 🔬 Writing a research paper on **optical prosthetics**, including cortical approaches that target the visual cortex (V1)
 - 🧩 Strong foundations in **Data Structures & Algorithms**, **OOP** and **SOLID** principles
 - 🔁 Working across the full **SDLC** with **Agile/Scrum**: requirements and NFRs, system analysis & design, Definition of Done, code review, testing and CI/CD
 - 🗄️ Designing **PostgreSQL** schemas with Prisma, idempotent migrations and safe data imports
 - 🤖 Integrating **Google Gemini AI** with caching and rate-limit retries
-- ✅ Shipping behind **CI gates**: 280+ Vitest tests, typecheck, lint and build on every change
+- ✅ Shipping behind **CI gates**: 280+ Vitest tests on one project, with typecheck, lint and build on every change
 - 👥 Led a team of 4 as **Software Developer (Project Lead)** at Minerva Innovations
 - 🎓 CS (Honours, Data Science & AI) at **Algoma University** · Computer Programming grad, **Algonquin College**
-- 🌱 Currently learning and building with: **Vue 3 & Nuxt**
+- 🌐 Built my [portfolio](https://abdullahi-portfolio-hhpp.vercel.app) with **Vue 3, Nuxt & three.js**: a 3D scene, interactive demos and a French version
 - ⚙️ Writing **Assembly** to understand how software runs on the hardware
 - 📱 Built a cross-platform **Flutter** app ([Flight-App](https://github.com/Hero-Sphinx/Flight-App)) in Android Studio with a local SQLite database
-- 🗣️ English · Arabic · French · Yoruba · Pidgin 
+- 🗣️ English · Arabic · French · Yoruba · Pidgin
+- 🌍 Open to junior, intern and full-stack roles in Canada, the US, the UK and the Middle East (GCC): remote, hybrid or in person
 
 ---
 
@@ -44,11 +52,13 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [**Daaru-s-Seebawayh**](https://github.com/Hero-Sphinx/Daaru-s-Seebawayh) · [live](https://daaru-s-seebawayh.vercel.app) | AI-assisted Arabic grammar & Qur'an learning platform with a rule-based grammar engine and 77,000+ word translations | Next.js · TypeScript · PostgreSQL · FastAPI · Gemini · Docker |
-| [**786 Pizza & Wings**](https://github.com/Hero-Sphinx/786-Pizza-Wings) | Online ordering platform with a live kitchen board and staff admin console; server-side pricing and secure auth | Next.js · TypeScript · Prisma · Tailwind · Vitest |
-| [**RoboDoc**](https://github.com/Hero-Sphinx/RoboDoc) · [live](https://robodoc-hhpp.vercel.app) | AI patient triage with non-blocking pipelines, Twilio SMS alerts and real-time Socket.io updates | React · Node.js · MySQL · Gemini |
+| [**Pizza Ordering Platform**](https://github.com/Hero-Sphinx/Pizza-Ordering-Platform) | Full-stack ordering platform with a live kitchen board, thermal receipts, staff admin console, server-side pricing and secure auth, shown with a fictional demo restaurant | Next.js · TypeScript · Prisma · Tailwind · Vitest |
+| [**SunnahFlix**](https://github.com/Hero-Sphinx/SunnahFlix) | Streaming-style library of Qur'an recitations, lectures and books, loaded from JSON, with book search and filters | HTML · CSS · JavaScript · Bootstrap |
+| [**RoboDoc**](https://github.com/Hero-Sphinx/RoboDoc) · [live](https://robodoc-hhpp.vercel.app) | AI patient triage that helps hospitals see the most urgent cases first, with non-blocking pipelines, Twilio SMS alerts and real-time Socket.io updates | React · Node.js · MySQL · Gemini |
 | [**PTFMS**](https://github.com/Hero-Sphinx/Transit_Project) | Public Transit Fleet Management System: 3-tier app with role-based access, route and vehicle tracking, maintenance reports and JUnit tests | Java · JSP · Servlets · MySQL |
 | [**Flight-App**](https://github.com/Hero-Sphinx/Flight-App) | Flutter mobile app for managing airplanes, flights, customers and reservations, with on-device SQLite storage | Flutter · Dart · SQLite · Android Studio |
-| [**OutlineOwl**](https://github.com/Hero-Sphinx/OutlineOwl) · [live](https://outlineowl.vercel.app) | Parses course outlines and syncs deadlines to Google Calendar with SMS reminders | React · Vite · Express · Google Calendar API · Twilio |
+| [**OutlineOwl**](https://github.com/Hero-Sphinx/OutlineOwl) · [live](https://outlineowl.vercel.app) | Parses course outlines, syncs deadlines to Google Calendar with SMS reminders, and uses AI to show the Area of Concentration and study tips for each test or assignment | React · Vite · Express · Gemini · Google Calendar API · Twilio |
+| [**Portfolio**](https://github.com/Hero-Sphinx/Portfolio) · [live](https://abdullahi-portfolio-hhpp.vercel.app) | This 3D portfolio: a particle cloud that morphs as you scroll, a phosphene vision simulator and a triage demo | Vue 3 · Nuxt · three.js · TypeScript · Vitest |
 
 ---
 
@@ -73,7 +83,9 @@
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-<img src="https://img.shields.io/badge/Vue.js%20%28learning%29-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js (learning)"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+<img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" alt="Nuxt"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
 
 **Mobile**<br/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
@@ -109,6 +121,8 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"/>
 <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" alt="Cursor"/>
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
 
 **Practices**<br/>
 <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0F766E?style=for-the-badge" alt="Data Structures & Algorithms"/>
@@ -129,8 +143,6 @@
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
 <img src="https://img.shields.io/badge/LLM%20integration-B45309?style=for-the-badge" alt="LLM integration"/>
 <img src="https://img.shields.io/badge/Prompt%20engineering-B45309?style=for-the-badge" alt="Prompt engineering"/>
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" alt="Cursor"/>
-<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
 
 ---
 
