@@ -1,13 +1,11 @@
 <h1 align="center">Hey, I'm Abdullahi 👋</h1>
 
-<p align="center">🩺 ⚕️ 💻 🧠</p>
 
 <p align="center">
   <b>Full-Stack Developer · 🩺 MedTech & AI · 🧠 Aspiring Neurotechnologist</b><br/>
   Building fast, tested, mobile-first software, from rigorous backends to sophisticated frontends, with a focus on technology that helps people heal and learn.
 </p>
 
-<p align="center"><i>I turn code into coffee, bugs into learning moments.<br/>My code is driven by the HHPP (Heart, Hustle, Passion and Purpose).</i></p>
 
 <p align="center">
   <a href="https://abdullahi-portfolio-hhpp.vercel.app"><img src="https://img.shields.io/badge/View_my_portfolio-10B981?style=for-the-badge" alt="View my portfolio"/></a>
